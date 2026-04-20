@@ -1,4 +1,4 @@
-# Uber – Full Stack Application (.NET Core & Vue.js)
+# Uber - Full Stack Application (.NET Core & Vue.js)
 
 ## Overview
 
